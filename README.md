@@ -3,6 +3,9 @@ Installation Guide of ShellClash on Xiaomi Route 3 PRO
 
 官方下载：https://github.com/juewuy/ShellClash/raw/master/bin/ShellClash.tar.gz
 
+参考文档：
+https://www.homaton.com/router/xiaomi-ax3600.html
+
 ## 安装开发版固件 + 启用SSH
 http://www1.miwifi.com/miwifi_download.html
 https://d.miwifi.com/rom/ssh
@@ -24,3 +27,4 @@ https://d.miwifi.com/rom/ssh
 2 导入Clash配置文件链接：输入Clash订阅链接
 
 按提示启动Clash（会自动运行）。
+
