@@ -28,3 +28,14 @@ https://d.miwifi.com/rom/ssh
 
 按提示启动Clash（会自动运行）。
 
+## 自动切换代理
+
+在clash安装目录下找到config.yaml，download到本地，编辑proxy group type（从select改为url-test, 增加interval: 300）:
+
+```
+proxy-groups:
+  -
+    name: '🚀 节点选择'
+    type: url-test
+    interval: 300
+```
